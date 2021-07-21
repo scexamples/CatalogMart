@@ -17,9 +17,6 @@ import mypackage.dto.Product;
  * When a new service instance is created, a new DAO instance is also created.
  * In each service method, CatalogDAO is used to open/close a session or a session with transaction, 
  * and to perform CRUD operations. 
- * 
- * 
- * @author sudha
  *
  */
 
