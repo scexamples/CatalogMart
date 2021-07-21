@@ -13,41 +13,25 @@ import org.junit.Test;
 
 import mypackage.service.CatalogService;
 
-/**
- * @author sudha
- *
- */
 public class CatalogServiceTest {
 
 	// instantiate a new CatalogService for use in this test
 	CatalogService catSrvc = new CatalogService();
 	
-	/**
-	 * @throws java.lang.Exception
-	 */
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
 		
 		
 	}
 
-	/**
-	 * @throws java.lang.Exception
-	 */
 	@AfterClass
 	public static void tearDownAfterClass() throws Exception {
 	}
 
-	/**
-	 * @throws java.lang.Exception
-	 */
 	@Before
 	public void setUp() throws Exception {
 	}
 
-	/**
-	 * @throws java.lang.Exception
-	 */
 	@After
 	public void tearDown() throws Exception {
 	}
