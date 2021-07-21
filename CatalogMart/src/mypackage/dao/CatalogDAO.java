@@ -20,8 +20,6 @@ import mypackage.dto.Product;
  * 
  * openCurrentSessionwithTransaction() opens a session and then opens a transaction 
  * and closeCurrentSessionwithTransaction() commits the transaction before closing the Session
- * 
- * @author sudha
  *
  */
 public class CatalogDAO {
