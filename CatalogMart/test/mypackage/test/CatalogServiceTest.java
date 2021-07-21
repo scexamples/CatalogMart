@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package mypackage.test;
 
 import static org.junit.Assert.assertEquals;
